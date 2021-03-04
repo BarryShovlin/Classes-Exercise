@@ -1,0 +1,16 @@
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\business.exe
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\business.deps.json
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\business.runtimeconfig.json
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\business.runtimeconfig.dev.json
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\business.dll
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\ref\business.dll
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\bin\Debug\net5.0\business.pdb
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.csprojAssemblyReference.cache
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.AssemblyInfoInputs.cache
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.AssemblyInfo.cs
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.csproj.CoreCompileInputs.cache
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.dll
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\ref\business.dll
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.pdb
+C:\Users\bshov\workspace\classExercises\buildABusiness\business\obj\Debug\net5.0\business.genruntimeconfig.cache
